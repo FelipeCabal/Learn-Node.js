@@ -1,3 +1,3 @@
-const os = require('node:os')
+const suma = require('./sum');
 
-console.log('CPUS', os.cpus())
+console.log(suma(1,2));
