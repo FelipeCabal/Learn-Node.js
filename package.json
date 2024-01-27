@@ -1,0 +1,29 @@
+{
+  "name": "proyecto",
+  "version": "1.0.0",
+  "description": "El mejor curso de note desde 0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FelipeCabal/Learn-Node.js.git"
+  },
+  "keywords": [
+    "curso",
+    "node",
+    "js",
+    "midudev"
+  ],
+  "author": "Andres Felipe Cabal Correa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FelipeCabal/Learn-Node.js/issues"
+  },
+  "homepage": "https://github.com/FelipeCabal/Learn-Node.js#readme",
+  "dependencies": {
+    "picocolors": "1.0.0",
+    "standard": "17.1.0"
+  }
+}
